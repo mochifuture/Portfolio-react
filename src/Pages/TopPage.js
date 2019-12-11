@@ -7,8 +7,6 @@ class TopPage extends React.Component {
   render() {
     return (
       <div className="TopPage">
-        <header className="TopPage-header">
-        </header>
         <div className="iframes">
           <div className="flexcontents">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/hxrKJ9l7-Wg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -28,7 +26,7 @@ class TopPage extends React.Component {
             <iframe width="560" height="315" src="https://www.youtube.com/embed/dtYBEH6MZYE?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div className="flexcontents">
-            <iframe title="vimeo-player" src="https://player.vimeo.com/video/69345498?title=0&byline=0&portrait=0" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/69345498?title=0&byline=0&portrait=0" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           </div>
         </div>
         <div className="sounds">
