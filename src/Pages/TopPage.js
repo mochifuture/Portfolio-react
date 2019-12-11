@@ -2,6 +2,9 @@ import React from "react";
 import "./TopPage.css";
 import { withRouter } from "react-router";
 import unii_500 from "../Images/unii_500.jpg";
+import fullmoon from "../Images/fullmoon500.jpg";
+import unes from "../Images/unescargotunii.jpg";
+import iframetext from "./IframetextPage.js";
 
 class TopPage extends React.Component {
   render() {
@@ -45,6 +48,31 @@ class TopPage extends React.Component {
         </div>
 
         <div className="ContentsContainer">
+          <div className="sounds">
+            <h2>Collaborations</h2>
+            <div className="flex-container">
+              <div className="flexcontents">
+                <iframe className="bandcampiframes" src="https://bandcamp.com/EmbeddedPlayer/album=2363593572/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://emerge.bandcamp.com/album/distant-glow">...distant glow... by UNII - EMERGE</a></iframe>
+              </div>
+              <div className="flexcontents">
+                <iframe className="bandcampiframes" src="https://bandcamp.com/EmbeddedPlayer/album=646113927/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://indianredhead.bandcamp.com/album/end2">END2 by Blue Stork</a></iframe>
+              </div>
+              <div className="flexcontents">
+                <img src={fullmoon} alt="fullmoon" width="240px"/>
+                <p>"fullmoon" (2015)</p>
+                <p>Visual by ieva  Sound by ieva and unii</p>
+                <a href="https://p0llenrec.tumblr.com/">pollenrec</a>
+              </div>
+              <div className="flexcontents">
+                <img src={unes} alt="unescargotunii" width="240px"/>
+                <p>"unii escargot vide? South Asia and Japan Tour Live"</p>
+                <p> (2013)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="ContentsContainer">
           <h2>Profile</h2>
           <div className="profile">
             <img src={unii_500} alt="unii" />
@@ -72,6 +100,16 @@ class TopPage extends React.Component {
             </p>
           </div>
         </div>
+
+        <div className="ContentsContainer">
+          <h2>Archives</h2>
+          <div className="archives">
+            <div className="archives_frame">
+            <iframe className="archives_iframe" src="http://uniiunii.com/bio.html"></iframe>
+            </div>
+          </div>
+        </div>
+
       </div>
     );
   }

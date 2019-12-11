@@ -32,8 +32,12 @@ h2 {
   margin-top: 100px;
 }
 
-.profile{
+p {
   font-size: 0.7em;
+}
+
+.profile{
+  font-size: 1em;
   /* width: 600px; */
   padding: 0 100px;
 }
@@ -48,4 +52,23 @@ h2 {
   display:flex;
   justify-content: center;
   padding: 50px;
+}
+
+.archives {
+  display:flex;
+  justify-content: center;
+}
+
+.archives_frame {
+  border: 1px solid pink;
+  height: 500px;
+  width: 800px;
+  padding: 10px;
+}
+
+.archives_iframe {
+  border: none;
+  bgcolor: #fff !important;
+  height: 500px;
+  width: 800px;
 }
