@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.Main {
+  padding-bottom: 300px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+a {
+text-decoration: none;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -14,7 +27,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +48,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#games, #others{
+  height: 100vh;
+}
+
+.App-footer {
+  padding-bottom: 100px;
 }
