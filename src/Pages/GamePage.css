@@ -1,0 +1,21 @@
+.games {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.contents-games {
+  display: flex;
+  border: 1px solid #fff;
+  height: 400px;
+  width: 800px;
+  text-align: left;
+  align-items: center;
+  padding: 20px;
+}
+
+.games-article {
+  padding: 20px;
+}

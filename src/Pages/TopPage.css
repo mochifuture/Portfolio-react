@@ -4,20 +4,38 @@
   color: #fff;
 }
 
+.ContentsContainer {
+  height: 100vh;
+}
+
+.sounds {
+  height: 100%;
+}
+
 .iframes {
   display:flex;
+  width: 100vw;
   justify-content: center;
   padding-bottom: 50px;
 }
 
-.flexcontents {
-  padding: 50px;
+.flex-container {
+  display:flex;
+  justify-content: center;
 }
 
-article{
+.flexcontents {
+  padding: 10px;
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+.profile{
   font-size: 0.7em;
   /* width: 600px; */
-  padding: 100px;
+  padding: 0 100px;
 }
 
 .bandcampiframes{

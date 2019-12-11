@@ -1,10 +1,8 @@
 import React from "react";
 import './App.css';
-// import { Link, Route } from "react-router-dom";
 import {BrowserRouter as Router, Link, Route, Switch} from "react-router-dom";
 import Button from "./Components/Button";
 import logo from "./Images/moi3d.png";
-// import Menu from "./Menu";
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import TopPage from "./Pages/TopPage";
 import GamePage from "./Pages/GamePage";
@@ -21,12 +19,8 @@ function App() {
             Yuiko Kaneko
           <AnchorLink href="#main" offset="50">
             <Link to='/'><Button name="music"/></Link>
-            <Link to='/page1'>
-              <Button name="games"/>
-            </Link>
-            <Link to='/page2'>
-              <Button name="others"/>
-            </Link>
+            <Link to='/page1'><Button name="games"/></Link>
+            <Link to='/page2'><Button name="others"/></Link>
           </AnchorLink>
         </header>
 
