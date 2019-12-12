@@ -7,6 +7,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll';
 import TopPage from "./Pages/TopPage";
 import GamePage from "./Pages/GamePage";
 import OthersPage from "./Pages/OthersPage";
+import ButtonPageTop from "./Components/ButtonPageTop";
 
 function App() {
   return (
@@ -37,7 +38,7 @@ function App() {
         </div>
       </Router>
 
-      <footer className="App-footer"><AnchorLink href="#top" offset="50">Back To Top</AnchorLink></footer>
+      <footer className="App-footer"><AnchorLink href="#top" offset="50"><ButtonPageTop name="Top"/></AnchorLink></footer>
     </div>
   );
 }

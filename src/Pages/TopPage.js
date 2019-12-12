@@ -116,14 +116,4 @@ class TopPage extends React.Component {
   }
 }
 
-
-// コンテンツとなるコンポーネント
-// class ChildComponent extends React.Component {
-//   render() {
-//     return (
-//       <p>コンテンツテキストです。</p>
-//     )
-//   }
-// }
-
 export default withRouter(TopPage);

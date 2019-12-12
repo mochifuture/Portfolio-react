@@ -4,6 +4,7 @@ import unii01 from "../Images/unii_venice.jpg";
 import unii02 from "../Images/unii_korea2014.jpg";
 import unii03 from "../Images/unii_indonesia2014.jpg";
 import unii04 from "../Images/unii_singapole2013.jpg";
+import unii05 from "../Images/unii_kobe2014.jpg";
 
 function ChildComponent() {
   return (
@@ -179,6 +180,7 @@ function ChildComponent() {
     <p>26 Jan Ho chi minh,Vietnam
     Zerostation</p>
     <p>23 Jan Ho chi minh,Vietnam YOKO BAR</p>
+    <img src={unii05} alt="unii" width="500px"/>
     <p>2012</p>
     <p>24 Dec Tokyo,Japan&nbsp; Ftarri
     Suidobashi</p>
