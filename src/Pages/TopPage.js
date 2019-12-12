@@ -4,9 +4,10 @@ import { withRouter } from "react-router";
 import unii_500 from "../Images/unii_500.jpg";
 import fullmoon from "../Images/fullmoon500.jpg";
 import unes from "../Images/unescargotunii.jpg";
-import iframetext from "./IframetextPage.js";
+import ChildComponent from "./ChildComponent.js";
 
 class TopPage extends React.Component {
+
   render() {
     return (
       <div className="TopPage">
@@ -104,9 +105,9 @@ class TopPage extends React.Component {
         <div className="ContentsContainer">
           <h2>Archives</h2>
           <div className="archives">
-            <div className="archives_frame">
-            <iframe className="archives_iframe" src="http://uniiunii.com/bio.html"></iframe>
-            </div>
+              <div className="archives_frame">
+                <ChildComponent />
+              </div>
           </div>
         </div>
 
@@ -114,5 +115,15 @@ class TopPage extends React.Component {
     );
   }
 }
+
+
+// コンテンツとなるコンポーネント
+// class ChildComponent extends React.Component {
+//   render() {
+//     return (
+//       <p>コンテンツテキストです。</p>
+//     )
+//   }
+// }
 
 export default withRouter(TopPage);

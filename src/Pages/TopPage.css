@@ -25,7 +25,7 @@
 }
 
 .flexcontents {
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 h2 {
@@ -61,14 +61,7 @@ p {
 
 .archives_frame {
   border: 1px solid pink;
-  height: 500px;
+  height: 600px;
   width: 800px;
-  padding: 10px;
-}
-
-.archives_iframe {
-  border: none;
-  bgcolor: #fff !important;
-  height: 500px;
-  width: 800px;
+  padding: 15px;
 }

@@ -14,7 +14,8 @@ class GamePage extends React.Component {
           <video src={moicha} height="400" controls></video>
           <div className="games-article">
           <h3>モイちゃんといっしょ</h3>
-          <p>モルモットのモイちゃんといっしょに暮らしましょう！開発中です</p>
+          <p>モルモットのモイちゃんといっしょに暮らしましょう！</p>
+          <p>放置・クリッカーゲーム。開発中です。</p>
           </div>
         </div>
       </div>
