@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-react/static/css/main.3ee56773.chunk.css",
+    "main.js": "/Portfolio-react/static/js/main.c4409946.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.c4409946.chunk.js.map",
+    "runtime-main.js": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js",
+    "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js.map",
+    "static/js/2.4aaabf18.chunk.js": "/Portfolio-react/static/js/2.4aaabf18.chunk.js",
+    "static/js/2.4aaabf18.chunk.js.map": "/Portfolio-react/static/js/2.4aaabf18.chunk.js.map",
+    "index.html": "/Portfolio-react/index.html",
+    "precache-manifest.29e24fc1a75756c41c940cc7eb35600c.js": "/Portfolio-react/precache-manifest.29e24fc1a75756c41c940cc7eb35600c.js",
+    "service-worker.js": "/Portfolio-react/service-worker.js",
+    "static/css/main.3ee56773.chunk.css.map": "/Portfolio-react/static/css/main.3ee56773.chunk.css.map",
+    "static/js/2.4aaabf18.chunk.js.LICENSE": "/Portfolio-react/static/js/2.4aaabf18.chunk.js.LICENSE",
+    "static/media/fullmoon500.jpg": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg",
+    "static/media/moi3d.png": "/Portfolio-react/static/media/moi3d.eadd85e3.png",
+    "static/media/moicha.mp4": "/Portfolio-react/static/media/moicha.33f4a355.mp4",
+    "static/media/takarabako.mp4": "/Portfolio-react/static/media/takarabako.283d880c.mp4",
+    "static/media/unescargotunii.jpg": "/Portfolio-react/static/media/unescargotunii.183f33f0.jpg",
+    "static/media/unii_500.jpg": "/Portfolio-react/static/media/unii_500.3588b17f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7fc0bf2.js",
+    "static/js/2.4aaabf18.chunk.js",
+    "static/css/main.3ee56773.chunk.css",
+    "static/js/main.c4409946.chunk.js"
+  ]
+}
