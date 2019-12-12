@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio-react/static/css/main.5e819e1b.chunk.css",
-    "main.js": "/Portfolio-react/static/js/main.fd2b9dc4.chunk.js",
-    "main.js.map": "/Portfolio-react/static/js/main.fd2b9dc4.chunk.js.map",
+    "main.css": "/Portfolio-react/static/css/main.6596e2a6.chunk.css",
+    "main.js": "/Portfolio-react/static/js/main.01a6c988.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.01a6c988.chunk.js.map",
     "runtime-main.js": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js",
     "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js.map",
-    "static/js/2.eba557a1.chunk.js": "/Portfolio-react/static/js/2.eba557a1.chunk.js",
-    "static/js/2.eba557a1.chunk.js.map": "/Portfolio-react/static/js/2.eba557a1.chunk.js.map",
+    "static/js/2.ebbf9c77.chunk.js": "/Portfolio-react/static/js/2.ebbf9c77.chunk.js",
+    "static/js/2.ebbf9c77.chunk.js.map": "/Portfolio-react/static/js/2.ebbf9c77.chunk.js.map",
     "index.html": "/Portfolio-react/index.html",
-    "precache-manifest.c4e298c518ba1fdc9e114de0a3e912ef.js": "/Portfolio-react/precache-manifest.c4e298c518ba1fdc9e114de0a3e912ef.js",
+    "precache-manifest.c569afadda04b4010a35a19155e8f4c5.js": "/Portfolio-react/precache-manifest.c569afadda04b4010a35a19155e8f4c5.js",
     "service-worker.js": "/Portfolio-react/service-worker.js",
-    "static/css/main.5e819e1b.chunk.css.map": "/Portfolio-react/static/css/main.5e819e1b.chunk.css.map",
-    "static/js/2.eba557a1.chunk.js.LICENSE": "/Portfolio-react/static/js/2.eba557a1.chunk.js.LICENSE",
+    "static/css/main.6596e2a6.chunk.css.map": "/Portfolio-react/static/css/main.6596e2a6.chunk.css.map",
+    "static/js/2.ebbf9c77.chunk.js.LICENSE": "/Portfolio-react/static/js/2.ebbf9c77.chunk.js.LICENSE",
     "static/media/fullmoon500.jpg": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg",
     "static/media/moi3d.png": "/Portfolio-react/static/media/moi3d.eadd85e3.png",
     "static/media/moicha.mp4": "/Portfolio-react/static/media/moicha.33f4a355.mp4",
@@ -24,14 +24,15 @@
     "static/media/unescargotunii.jpg": "/Portfolio-react/static/media/unescargotunii.183f33f0.jpg",
     "static/media/unii_500.jpg": "/Portfolio-react/static/media/unii_500.3588b17f.jpg",
     "static/media/unii_indonesia2014.jpg": "/Portfolio-react/static/media/unii_indonesia2014.51a4a8d2.jpg",
+    "static/media/unii_kobe2014.jpg": "/Portfolio-react/static/media/unii_kobe2014.4b81f5ce.jpg",
     "static/media/unii_korea2014.jpg": "/Portfolio-react/static/media/unii_korea2014.ac200669.jpg",
     "static/media/unii_singapole2013.jpg": "/Portfolio-react/static/media/unii_singapole2013.a5bb8f16.jpg",
     "static/media/unii_venice.jpg": "/Portfolio-react/static/media/unii_venice.02f06354.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f7fc0bf2.js",
-    "static/js/2.eba557a1.chunk.js",
-    "static/css/main.5e819e1b.chunk.css",
-    "static/js/main.fd2b9dc4.chunk.js"
+    "static/js/2.ebbf9c77.chunk.js",
+    "static/css/main.6596e2a6.chunk.css",
+    "static/js/main.01a6c988.chunk.js"
   ]
 }

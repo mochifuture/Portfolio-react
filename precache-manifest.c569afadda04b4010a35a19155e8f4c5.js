@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b52682b597f1349bfa061d50156698d",
+    "revision": "07c012d1f8ebfdbd08b2515b5c2d3fee",
     "url": "/Portfolio-react/index.html"
   },
   {
-    "revision": "d88e574d6dc0f7cc5887",
-    "url": "/Portfolio-react/static/css/main.5e819e1b.chunk.css"
+    "revision": "e9847c95fc9beafec377",
+    "url": "/Portfolio-react/static/css/main.6596e2a6.chunk.css"
   },
   {
-    "revision": "280a8e869e17177767a8",
-    "url": "/Portfolio-react/static/js/2.eba557a1.chunk.js"
+    "revision": "1ac78ac3ed1db44ea9f3",
+    "url": "/Portfolio-react/static/js/2.ebbf9c77.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/Portfolio-react/static/js/2.eba557a1.chunk.js.LICENSE"
+    "url": "/Portfolio-react/static/js/2.ebbf9c77.chunk.js.LICENSE"
   },
   {
-    "revision": "d88e574d6dc0f7cc5887",
-    "url": "/Portfolio-react/static/js/main.fd2b9dc4.chunk.js"
+    "revision": "e9847c95fc9beafec377",
+    "url": "/Portfolio-react/static/js/main.01a6c988.chunk.js"
   },
   {
     "revision": "2201e30b27cde7437e28",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51a4a8d21e23c04bdb968d0a949931b7",
     "url": "/Portfolio-react/static/media/unii_indonesia2014.51a4a8d2.jpg"
+  },
+  {
+    "revision": "4b81f5ce340391da93b67ded5edcbbb7",
+    "url": "/Portfolio-react/static/media/unii_kobe2014.4b81f5ce.jpg"
   },
   {
     "revision": "ac200669d1540e82c9e3d1f53e25b15c",
