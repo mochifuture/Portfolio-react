@@ -8,6 +8,11 @@ import TopPage from "./Pages/TopPage";
 import GamePage from "./Pages/GamePage";
 import OthersPage from "./Pages/OthersPage";
 import ButtonPageTop from "./Components/ButtonPageTop";
+import IconF from "./Icons/icon_f.png";
+import IconG from "./Icons/icon_g.png";
+import IconQ from "./Icons/icon_q.png";
+import IconT from "./Icons/icon_t.png";
+import IconY from "./Icons/icon_y.png";
 
 function App() {
   return (
@@ -22,6 +27,13 @@ function App() {
             <Link to='/games'><Button name="games"/></Link>
             <Link to='/others'><Button name="others"/></Link>
           </AnchorLink>
+          <div className="icons-container">
+            <a href="https://www.facebook.com/unii.jp" target="_blank"><img src={IconF} className="icons" alt="facebook" /></a>
+            <a href="https://twitter.com/mochifuture" target="_blank"><img src={IconT} className="icons" alt="twitter" /></a>
+            <a href="https://github.com/mochifuture" target="_blank"><img src={IconG} className="icons" alt="github" /></a>
+            <a href="https://qiita.com/mochifuture" target="_blank"><img src={IconQ} className="icons" alt="qiita" /></a>
+            <a href="https://www.youtube.com/channel/UCamI3MqarC-5TpYD8pLZcCg" target="_blank"><img src={IconY} className="icons-y" alt="youtube" /></a>
+          </div>
         </header>
 
         <div className="Main">

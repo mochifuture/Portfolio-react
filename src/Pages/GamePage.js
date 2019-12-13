@@ -4,6 +4,7 @@ import "./GamePage.css";
 import { withRouter } from "react-router";
 import takarabako from "../Images/takarabako.mp4";
 import moicha from "../Images/moicha.mp4";
+import minimoi from "../Images/minimoi_1280.mp4";
 
 class GamePage extends React.Component {
   render() {
@@ -21,7 +22,7 @@ class GamePage extends React.Component {
       </div>
       <div className="games">
         <div className="contents-games">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/w0mm8CMdAGM?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <video src={minimoi} width="560" height="315" controls></video>
           <div className="games-article">
           <h3>モイちゃんのりんごキャッチ！</h3>
           <p>かわいいモルモットのモイちゃんを操作してりんごをキャッチしましょう！</p>

@@ -58,3 +58,15 @@ a {
 .App-footer {
   padding-bottom: 100px;
 }
+
+.icons-container {
+  padding: 20px 0;
+}
+
+.icons {
+  height: 40px;
+}
+
+.icons-y {
+  width: 48px;
+}
