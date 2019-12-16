@@ -11,35 +11,26 @@ class GamePage extends React.Component {
     return (
     <div>
       <div className="games">
-        <div className="contents-games">
-          <video src={moicha} height="400" controls></video>
-          <div className="games-article">
           <h3>モイちゃんといっしょ</h3>
           <p>モルモットのモイちゃんといっしょに暮らしましょう！</p>
           <p>放置・クリッカーゲーム。開発中です。</p>
-          </div>
-        </div>
+          <video src={moicha} height="400" controls></video>
       </div>
+
       <div className="games">
-        <div className="contents-games">
-          <video src={minimoi} width="480" height="350" controls></video>
-          <div className="games-article">
           <h3>モイちゃんのりんごキャッチ！</h3>
           <p>かわいいモルモットのモイちゃんを操作してりんごをキャッチしましょう！</p>
-          <a href="https://unityroom.com/games/minimoichan">あそぶ→　unityroom</a>
-          </div>
-        </div>
+          <video src={minimoi} width="400" height="300" controls></video>
+          <p><a href="https://unityroom.com/games/minimoichan">あそぶ→　unityroom</a></p>
       </div>
+
       <div className="games">
-      <div className="contents-games">
+      <h3>モイちゃんのたからばこ</h3>
+      <p>たからばこを、さがしてね！ダンジョンゲームです</p>
         <video src={takarabako} width="350" height="350" controls></video>
-        <div className="games-article">
-        <h3>モイちゃんのたからばこ</h3>
-        <p>たからばこを、さがしてね！ダンジョンゲームです</p>
-        <a href="https://unityroom.com/games/moichang_takarabako">あそぶ→　unityroom</a>
-        </div>
-        </div>
+        <p><a href="https://unityroom.com/games/moichang_takarabako">あそぶ→　unityroom</a></p>
       </div>
+
     </div>
     );
   }
