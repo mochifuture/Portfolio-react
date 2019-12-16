@@ -3,7 +3,7 @@ import "./TopPage.css";
 import "./GamePage.css";
 import { withRouter } from "react-router";
 import takarabako from "../Images/takarabako.mp4";
-import moicha from "../Images/moicha.mp4";
+import moicha from "../Images/moi_issho.mp4";
 import minimoi from "../Images/minimoi_1280.mp4";
 
 class GamePage extends React.Component {
