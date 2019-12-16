@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-react/static/css/main.7decbbac.chunk.css",
-    "main.js": "/Portfolio-react/static/js/main.2ba7494f.chunk.js",
-    "main.js.map": "/Portfolio-react/static/js/main.2ba7494f.chunk.js.map",
+    "main.js": "/Portfolio-react/static/js/main.4645a113.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.4645a113.chunk.js.map",
     "runtime-main.js": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js",
     "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js.map",
-    "static/js/2.a06cca71.chunk.js": "/Portfolio-react/static/js/2.a06cca71.chunk.js",
-    "static/js/2.a06cca71.chunk.js.map": "/Portfolio-react/static/js/2.a06cca71.chunk.js.map",
+    "static/js/2.b5f1f667.chunk.js": "/Portfolio-react/static/js/2.b5f1f667.chunk.js",
+    "static/js/2.b5f1f667.chunk.js.map": "/Portfolio-react/static/js/2.b5f1f667.chunk.js.map",
     "index.html": "/Portfolio-react/index.html",
-    "precache-manifest.4dd4573497eb8cbdc22eacab8db0dab4.js": "/Portfolio-react/precache-manifest.4dd4573497eb8cbdc22eacab8db0dab4.js",
+    "precache-manifest.7f2c985942abcf764a54e029a1443630.js": "/Portfolio-react/precache-manifest.7f2c985942abcf764a54e029a1443630.js",
     "service-worker.js": "/Portfolio-react/service-worker.js",
     "static/css/main.7decbbac.chunk.css.map": "/Portfolio-react/static/css/main.7decbbac.chunk.css.map",
-    "static/js/2.a06cca71.chunk.js.LICENSE": "/Portfolio-react/static/js/2.a06cca71.chunk.js.LICENSE",
+    "static/js/2.b5f1f667.chunk.js.LICENSE": "/Portfolio-react/static/js/2.b5f1f667.chunk.js.LICENSE",
     "static/media/fullmoon500.jpg": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg",
     "static/media/icon_y.png": "/Portfolio-react/static/media/icon_y.57c75406.png",
     "static/media/minimoi_1280.mp4": "/Portfolio-react/static/media/minimoi_1280.8ec32489.mp4",
     "static/media/moi3d.png": "/Portfolio-react/static/media/moi3d.eadd85e3.png",
-    "static/media/moicha.mp4": "/Portfolio-react/static/media/moicha.33f4a355.mp4",
+    "static/media/moi_issho.mp4": "/Portfolio-react/static/media/moi_issho.143ceccb.mp4",
     "static/media/nort.jpg": "/Portfolio-react/static/media/nort.d2143048.jpg",
     "static/media/nort_01.jpg": "/Portfolio-react/static/media/nort_01.39b21072.jpg",
     "static/media/nort_02.jpg": "/Portfolio-react/static/media/nort_02.6018900f.jpg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f7fc0bf2.js",
-    "static/js/2.a06cca71.chunk.js",
+    "static/js/2.b5f1f667.chunk.js",
     "static/css/main.7decbbac.chunk.css",
-    "static/js/main.2ba7494f.chunk.js"
+    "static/js/main.4645a113.chunk.js"
   ]
 }
