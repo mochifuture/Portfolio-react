@@ -3,7 +3,6 @@ import "./TopPage.css";
 import "./OthersPage.css";
 import { withRouter } from "react-router";
 import takarabako from "../Images/takarabako.mp4";
-import moicha from "../Images/moicha.mp4";
 import nort01 from "../Images/nort.jpg";
 import nort02 from "../Images/nort_01.jpg";
 import nort03 from "../Images/nort_02.jpg";

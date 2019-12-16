@@ -22,7 +22,7 @@ class GamePage extends React.Component {
       </div>
       <div className="games">
         <div className="contents-games">
-          <video src={minimoi} width="560" height="315" controls></video>
+          <video src={minimoi} width="480" height="350" controls></video>
           <div className="games-article">
           <h3>モイちゃんのりんごキャッチ！</h3>
           <p>かわいいモルモットのモイちゃんを操作してりんごをキャッチしましょう！</p>
