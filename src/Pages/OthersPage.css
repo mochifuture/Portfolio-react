@@ -1,16 +1,6 @@
-.others {
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 50px;
-}
-
 .contents-others {
   border: 1px solid #fff;
-  /* height: 400px; */
-  width: 800px;
-  padding: 20px;
+  padding: 20px 0;
 }
 
 

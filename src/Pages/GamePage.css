@@ -2,22 +2,5 @@
   outline: 0;
 }
 .games {
-  width: 100vw;
-  margin-bottom: 100px;
-}
-
-/* .contents-games {
-  display: flex;
   border: 1px solid #fff;
-  min-height: 400px;
-  width: 100%;
-  margin: 50px;
-  text-align: left;
-  align-items: center;
-  padding: 20px;
 }
-
-.games-article {
-  padding: 20px;
-  width: 100%;
-} */
