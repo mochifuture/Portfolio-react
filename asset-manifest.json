@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio-react/static/css/main.a7d02d9f.chunk.css",
-    "main.js": "/Portfolio-react/static/js/main.22abeb55.chunk.js",
-    "main.js.map": "/Portfolio-react/static/js/main.22abeb55.chunk.js.map",
+    "main.css": "/Portfolio-react/static/css/main.9b9b51dd.chunk.css",
+    "main.js": "/Portfolio-react/static/js/main.91c76d70.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.91c76d70.chunk.js.map",
     "runtime-main.js": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js",
     "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js.map",
-    "static/js/2.b5f1f667.chunk.js": "/Portfolio-react/static/js/2.b5f1f667.chunk.js",
-    "static/js/2.b5f1f667.chunk.js.map": "/Portfolio-react/static/js/2.b5f1f667.chunk.js.map",
+    "static/js/2.332f65ce.chunk.js": "/Portfolio-react/static/js/2.332f65ce.chunk.js",
+    "static/js/2.332f65ce.chunk.js.map": "/Portfolio-react/static/js/2.332f65ce.chunk.js.map",
     "index.html": "/Portfolio-react/index.html",
-    "precache-manifest.69869ed2fd328b7c4c2b0ab5aa5ae9d1.js": "/Portfolio-react/precache-manifest.69869ed2fd328b7c4c2b0ab5aa5ae9d1.js",
+    "precache-manifest.0791f57b69ec2d7ea7abca78a6332bce.js": "/Portfolio-react/precache-manifest.0791f57b69ec2d7ea7abca78a6332bce.js",
     "service-worker.js": "/Portfolio-react/service-worker.js",
-    "static/css/main.a7d02d9f.chunk.css.map": "/Portfolio-react/static/css/main.a7d02d9f.chunk.css.map",
-    "static/js/2.b5f1f667.chunk.js.LICENSE": "/Portfolio-react/static/js/2.b5f1f667.chunk.js.LICENSE",
+    "static/css/main.9b9b51dd.chunk.css.map": "/Portfolio-react/static/css/main.9b9b51dd.chunk.css.map",
+    "static/js/2.332f65ce.chunk.js.LICENSE": "/Portfolio-react/static/js/2.332f65ce.chunk.js.LICENSE",
     "static/media/fullmoon500.jpg": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg",
     "static/media/icon_y.png": "/Portfolio-react/static/media/icon_y.57c75406.png",
     "static/media/minimoi_1280.mp4": "/Portfolio-react/static/media/minimoi_1280.8ec32489.mp4",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f7fc0bf2.js",
-    "static/js/2.b5f1f667.chunk.js",
-    "static/css/main.a7d02d9f.chunk.css",
-    "static/js/main.22abeb55.chunk.js"
+    "static/js/2.332f65ce.chunk.js",
+    "static/css/main.9b9b51dd.chunk.css",
+    "static/js/main.91c76d70.chunk.js"
   ]
 }
