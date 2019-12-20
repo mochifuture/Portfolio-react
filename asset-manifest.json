@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio-react/static/css/main.e8bd3f6f.chunk.css",
-    "main.js": "/Portfolio-react/static/js/main.c75d651d.chunk.js",
-    "main.js.map": "/Portfolio-react/static/js/main.c75d651d.chunk.js.map",
+    "main.css": "/Portfolio-react/static/css/main.ebfc55f5.chunk.css",
+    "main.js": "/Portfolio-react/static/js/main.36b89dc6.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.36b89dc6.chunk.js.map",
     "runtime-main.js": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js",
     "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js.map",
     "static/js/2.86533de7.chunk.js": "/Portfolio-react/static/js/2.86533de7.chunk.js",
     "static/js/2.86533de7.chunk.js.map": "/Portfolio-react/static/js/2.86533de7.chunk.js.map",
     "index.html": "/Portfolio-react/index.html",
-    "precache-manifest.b23e2a182120b6e240c4aefb0fea8b1a.js": "/Portfolio-react/precache-manifest.b23e2a182120b6e240c4aefb0fea8b1a.js",
+    "precache-manifest.ca19802a52b6070732a615fe33b2e775.js": "/Portfolio-react/precache-manifest.ca19802a52b6070732a615fe33b2e775.js",
     "service-worker.js": "/Portfolio-react/service-worker.js",
-    "static/css/main.e8bd3f6f.chunk.css.map": "/Portfolio-react/static/css/main.e8bd3f6f.chunk.css.map",
+    "static/css/main.ebfc55f5.chunk.css.map": "/Portfolio-react/static/css/main.ebfc55f5.chunk.css.map",
     "static/js/2.86533de7.chunk.js.LICENSE": "/Portfolio-react/static/js/2.86533de7.chunk.js.LICENSE",
     "static/media/fullmoon500.jpg": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg",
     "static/media/icon_y.png": "/Portfolio-react/static/media/icon_y.57c75406.png",
     "static/media/minimoi_1280.mp4": "/Portfolio-react/static/media/minimoi_1280.8ec32489.mp4",
-    "static/media/moi3d.png": "/Portfolio-react/static/media/moi3d.eadd85e3.png",
+    "static/media/moi3d.png": "/Portfolio-react/static/media/moi3d.d71f52f5.png",
     "static/media/moi_issho.mp4": "/Portfolio-react/static/media/moi_issho.143ceccb.mp4",
     "static/media/nort.jpg": "/Portfolio-react/static/media/nort.d2143048.jpg",
     "static/media/nort_01.jpg": "/Portfolio-react/static/media/nort_01.39b21072.jpg",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.f7fc0bf2.js",
     "static/js/2.86533de7.chunk.js",
-    "static/css/main.e8bd3f6f.chunk.css",
-    "static/js/main.c75d651d.chunk.js"
+    "static/css/main.ebfc55f5.chunk.css",
+    "static/js/main.36b89dc6.chunk.js"
   ]
 }
