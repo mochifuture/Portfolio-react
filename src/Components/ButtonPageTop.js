@@ -14,8 +14,7 @@ class ButtonPageTop extends React.Component {
         onClick={() => {
           this.handleToPage();
         }}
-      ><i class="fa fa-chevron-up"></i>
-        {this.props.name}
+      >{this.props.name}
       </div>
     );
   }

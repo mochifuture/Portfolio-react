@@ -181,21 +181,3 @@ class TopPage extends React.Component {
 }
 
 export default withRouter(TopPage);
-
-// <Grid container spacing={1} className="ContentsContainer">
-//   <Grid item xs={12} className="flex-container">
-//     <iframe className="bandcampiframes" src="https://bandcamp.com/EmbeddedPlayer/album=2363593572/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://emerge.bandcamp.com/album/distant-glow">...distant glow... by UNII - EMERGE</a></iframe>
-//     <iframe className="bandcampiframes" src="https://bandcamp.com/EmbeddedPlayer/album=646113927/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://indianredhead.bandcamp.com/album/end2">END2 by Blue Stork</a></iframe>
-//     <div className="flexcontents collabo">
-//       <img src={fullmoon} alt="fullmoon" width="240px"/>
-//       <p>"fullmoon" (2015)</p>
-//       <p>Visual by ieva  Sound by ieva and unii</p>
-//       <a href="https://p0llenrec.tumblr.com/">pollenrec</a>
-//     </div>
-//     <div className="flexcontents collabo">
-//       <img src={unes} alt="unescargotunii" width="240px"/>
-//       <p>"unii escargot vide? South Asia and Japan Tour Live"</p>
-//       <p> (2013)</p>
-//     </div>
-//   </Grid>
-// </Grid>

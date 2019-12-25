@@ -1,0 +1,29 @@
+.img-stamp {
+  max-width: 90%;
+  width: 400px;
+}
+.stamps {
+  overflow: scroll;
+}
+
+.triangles {
+  display: flex;
+  justify-content: center;
+}
+
+.triangle1{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 17.3px 10px 0;
+  border-color: transparent #ffffff transparent transparent;
+  margin: 0 10px;
+}
+.triangle2{
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 0 10px 17.3px;
+  border-color: transparent transparent transparent #ffffff;
+  margin: 0 10px;
+}

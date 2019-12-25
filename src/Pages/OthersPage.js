@@ -11,6 +11,7 @@ import nort05 from "../Images/nort_05.jpg";
 import Container from '@material-ui/core/container';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
+import StampDisplayComponent from "./StampDisplayComponent.js";
 
 class OthersPage extends React.Component {
   render() {
@@ -44,6 +45,18 @@ class OthersPage extends React.Component {
                 <iframe width="350" height="280" src="https://www.youtube.com/embed/leP5b3fy69I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <h3>モイちゃんのYoutube</h3>
                 <p>モルモットのモイちゃんのYoutubeです</p>
+              </div>
+            </div>
+          </Grid>
+
+          <Grid item xs={12}>
+            <div className="others">
+              <div className="contents-others">
+                <div className="linestamps-display">
+                  <StampDisplayComponent />
+                </div>
+                <h3>LINEスタンプ</h3>
+                <p>モルモットのモイちゃんのLINEスタンプです</p>
               </div>
             </div>
           </Grid>
