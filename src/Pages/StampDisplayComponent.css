@@ -1,9 +1,11 @@
-.img-stamp {
+.stamp-display {
   max-width: 90%;
-  width: 400px;
+  width: 500px;
 }
+
 .stamps {
-  overflow: scroll;
+  overflow-x: scroll;
+  overflow-y: hidden;
 }
 
 .triangles {

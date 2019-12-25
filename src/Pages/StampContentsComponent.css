@@ -1,0 +1,15 @@
+.contents-container {
+  width: 2000px;
+  display: flex;
+  align-items: center;
+  background: #fff;
+}
+
+.img-block {
+  width: 90vw;
+}
+
+.img-stamp {
+  max-width: 90%;
+  margin: 0;
+}

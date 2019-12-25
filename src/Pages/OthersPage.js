@@ -52,7 +52,7 @@ class OthersPage extends React.Component {
           <Grid item xs={12}>
             <div className="others">
               <div className="contents-others">
-                <div className="linestamps-display">
+                <div className="hoge">
                   <StampDisplayComponent />
                 </div>
                 <h3>LINEスタンプ</h3>

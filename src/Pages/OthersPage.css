@@ -3,7 +3,6 @@
   padding: 20px 0;
 }
 
-
 .contents-flex {
   display: flex;
   justify-content: center;
@@ -18,8 +17,8 @@ iframe, img {
   padding: 20px;
 }
 
-.linestamps-display {
-  /* height: 300px;
-  width: 90%;
-  padding: 15px; */
+.hoge {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
