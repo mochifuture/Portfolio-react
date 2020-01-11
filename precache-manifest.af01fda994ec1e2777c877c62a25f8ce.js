@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10438f46bc7b2dc0aa674a87d6168c6d",
+    "revision": "0ab159d076617122dd585ee87c39decb",
     "url": "/Portfolio-react/index.html"
   },
   {
-    "revision": "3e46d1bdacde0e0d5d7c",
-    "url": "/Portfolio-react/static/css/main.09d98021.chunk.css"
+    "revision": "ae27516291fc741acc8c",
+    "url": "/Portfolio-react/static/css/main.8286d8fc.chunk.css"
   },
   {
-    "revision": "23b7d34968fac3ba88ae",
-    "url": "/Portfolio-react/static/js/2.97f2f576.chunk.js"
+    "revision": "b234b66be1198433d20c",
+    "url": "/Portfolio-react/static/js/2.21fb63dd.chunk.js"
   },
   {
     "revision": "70eb958cc321f13f03312722a88ecc18",
-    "url": "/Portfolio-react/static/js/2.97f2f576.chunk.js.LICENSE"
+    "url": "/Portfolio-react/static/js/2.21fb63dd.chunk.js.LICENSE"
   },
   {
-    "revision": "3e46d1bdacde0e0d5d7c",
-    "url": "/Portfolio-react/static/js/main.a4f0b3c6.chunk.js"
+    "revision": "ae27516291fc741acc8c",
+    "url": "/Portfolio-react/static/js/main.5b3fdf0a.chunk.js"
   },
   {
     "revision": "2201e30b27cde7437e28",
     "url": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js"
   },
   {
+    "revision": "2b1c13f6728d4ff606d75ba355b521d6",
+    "url": "/Portfolio-react/static/media/App_Store_Badge_JP_blk.2b1c13f6.png"
+  },
+  {
     "revision": "7558b7ba76ef3cabbcc92d8e673c19b5",
     "url": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg"
+  },
+  {
+    "revision": "f6b3b231d26eb60313976afaa83cd84c",
+    "url": "/Portfolio-react/static/media/google-play-badge.f6b3b231.png"
   },
   {
     "revision": "57c754062bf0068582dffb5e2a35a736",

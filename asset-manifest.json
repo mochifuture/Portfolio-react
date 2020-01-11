@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio-react/static/css/main.09d98021.chunk.css",
-    "main.js": "/Portfolio-react/static/js/main.a4f0b3c6.chunk.js",
-    "main.js.map": "/Portfolio-react/static/js/main.a4f0b3c6.chunk.js.map",
+    "main.css": "/Portfolio-react/static/css/main.8286d8fc.chunk.css",
+    "main.js": "/Portfolio-react/static/js/main.5b3fdf0a.chunk.js",
+    "main.js.map": "/Portfolio-react/static/js/main.5b3fdf0a.chunk.js.map",
     "runtime-main.js": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js",
     "runtime-main.js.map": "/Portfolio-react/static/js/runtime-main.f7fc0bf2.js.map",
-    "static/js/2.97f2f576.chunk.js": "/Portfolio-react/static/js/2.97f2f576.chunk.js",
-    "static/js/2.97f2f576.chunk.js.map": "/Portfolio-react/static/js/2.97f2f576.chunk.js.map",
+    "static/js/2.21fb63dd.chunk.js": "/Portfolio-react/static/js/2.21fb63dd.chunk.js",
+    "static/js/2.21fb63dd.chunk.js.map": "/Portfolio-react/static/js/2.21fb63dd.chunk.js.map",
     "index.html": "/Portfolio-react/index.html",
-    "precache-manifest.94e0c2885fb7ab136353586eeea6467f.js": "/Portfolio-react/precache-manifest.94e0c2885fb7ab136353586eeea6467f.js",
+    "precache-manifest.af01fda994ec1e2777c877c62a25f8ce.js": "/Portfolio-react/precache-manifest.af01fda994ec1e2777c877c62a25f8ce.js",
     "service-worker.js": "/Portfolio-react/service-worker.js",
-    "static/css/main.09d98021.chunk.css.map": "/Portfolio-react/static/css/main.09d98021.chunk.css.map",
-    "static/js/2.97f2f576.chunk.js.LICENSE": "/Portfolio-react/static/js/2.97f2f576.chunk.js.LICENSE",
+    "static/css/main.8286d8fc.chunk.css.map": "/Portfolio-react/static/css/main.8286d8fc.chunk.css.map",
+    "static/js/2.21fb63dd.chunk.js.LICENSE": "/Portfolio-react/static/js/2.21fb63dd.chunk.js.LICENSE",
+    "static/media/App_Store_Badge_JP_blk.png": "/Portfolio-react/static/media/App_Store_Badge_JP_blk.2b1c13f6.png",
     "static/media/fullmoon500.jpg": "/Portfolio-react/static/media/fullmoon500.7558b7ba.jpg",
+    "static/media/google-play-badge.png": "/Portfolio-react/static/media/google-play-badge.f6b3b231.png",
     "static/media/icon_y.png": "/Portfolio-react/static/media/icon_y.57c75406.png",
     "static/media/minimoi_1280.mp4": "/Portfolio-react/static/media/minimoi_1280.8ec32489.mp4",
     "static/media/moi3d.png": "/Portfolio-react/static/media/moi3d.d71f52f5.png",
@@ -37,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f7fc0bf2.js",
-    "static/js/2.97f2f576.chunk.js",
-    "static/css/main.09d98021.chunk.css",
-    "static/js/main.a4f0b3c6.chunk.js"
+    "static/js/2.21fb63dd.chunk.js",
+    "static/css/main.8286d8fc.chunk.css",
+    "static/js/main.5b3fdf0a.chunk.js"
   ]
 }
