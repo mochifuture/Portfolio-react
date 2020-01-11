@@ -8,6 +8,8 @@ import minimoi from "../Images/minimoi_1280.mp4";
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/container';
+import appstore from "../Images/App_Store_Badge_JP_blk.png";
+import googleplay from "../Images/google-play-badge.png";
 
 class GamePage extends React.Component {
   render() {
@@ -17,9 +19,14 @@ class GamePage extends React.Component {
           <Grid item xs={12}>
             <div className="games">
                 <h3>モイちゃんといっしょ</h3>
-                <p>モルモットのモイちゃんといっしょに暮らしましょう！</p>
-                <p>放置・クリッカーゲーム。開発中です。</p>
                 <video src={moicha} width="350" controls></video>
+                <p>癒しのモルモット育成ゲームです</p>
+                <p>クリックするごとにモイちゃんとのしんらいレベルがアップ！</p>
+                <p>なでたり、餌をあげたり、お掃除をしてコミュニケーションを深められます。</p>
+                <div className="appstore-badges">
+                  <a href="https://apps.apple.com/jp/app/id1493900117"><img src={appstore} alt="nort05" width="150"/></a>
+                  <a href="https://play.google.com/store/apps/details?id=com.MoichangCompany.mob"><img src={googleplay} alt="nort05" width="170"/></a>
+                </div>
             </div>
           </Grid>
           <Grid item xs={12}>

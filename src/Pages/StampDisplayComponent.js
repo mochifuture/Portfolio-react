@@ -18,19 +18,3 @@ class StampDisplayComponent extends React.Component {
 }
 
 export default StampDisplayComponent;
-
-
-// <div className="stamp-display" >
-//   <div className="stamps">
-//     <StampContentsComponent />
-//   </div>
-//   <div className="triangles">
-//       <AnchorLink href="#hoge" offset="50">
-//       <Button name="hoge"/>
-//       </AnchorLink>
-//       <div className="triangle1" onClick={() => {this.handleImg();}}>
-//       </div>
-//       <div className="triangle2">
-//       </div>
-//   </div>
-// </div>

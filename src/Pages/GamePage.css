@@ -4,3 +4,9 @@
 .games {
   border: 1px solid #fff;
 }
+
+.appstore-badges {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
